@@ -6,7 +6,7 @@ const Middle = () => {
       <div className="content">
         <div className="flex">
           <div className="flex_img">
-            <img src="/middle1.png" alt="" />
+            <img src="/middle1.png" alt="Comfortable screwdriver" />
           </div>
           <div className="flex_txt">
             <h2>Comfort</h2>
@@ -29,15 +29,15 @@ const Middle = () => {
             </p>
           </div>
           <div className="flex_img">
-            <img src="/middle3.png" alt="" />
+            <img src="/middle3.png" alt="screwdriver unleashing creativity" />
           </div>
         </div>
         <div className="flex">
           <div className="flex_img">
-            <img src="/middle2.png" alt="" />
+            <img src="/middle2.png" alt="Portability of screwdriver" />
           </div>
           <div className="flex_txt">
-            <h2>Portability & Comfort</h2>
+            <h2>Portability </h2>
             <p>
               Whether you're at home, in the office, or on the road, experience
               the convenience of portable comfort. Never compromise on

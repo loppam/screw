@@ -5,7 +5,7 @@ import { FaWhatsapp, FaInstagram } from "react-icons/fa";
 const Socials = () => {
   return (
     <div className="socials">
-      <Link to="https://www.instagram.com/">
+      <Link to="https://www.instagram.com/tifepariola/">
         <FaInstagram className="ig" />
       </Link>
       <Link to="https://wa.me/+2348100908752">

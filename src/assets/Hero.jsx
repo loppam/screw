@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -16,7 +17,9 @@ const Hero = () => {
               with tools designed for innovation. Turn to excellence, turn with
               us.
             </p>
+            <Link to="https://wa.link/bqc0a9" className="order">Buy Now</Link>
           </div>
+
           <div className="flex_img">
             <img src="/headscrew.png" alt="" />
           </div>
